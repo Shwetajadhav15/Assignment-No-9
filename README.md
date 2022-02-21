@@ -1,5 +1,5 @@
 # Assignment-No-9
-Association_Rules_Assignments
+# Association_Rules_Assignments
 
 Prepare rules for the all the data sets
 
